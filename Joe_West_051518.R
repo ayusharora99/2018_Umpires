@@ -1,0 +1,1 @@
+Joe_West_051518 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Joe_West_051518.csv")

@@ -1,0 +1,1 @@
+Stu_Scheruwater_052618 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Stu_Scheruwater_052618.csv")

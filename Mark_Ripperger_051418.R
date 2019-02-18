@@ -1,0 +1,1 @@
+Mark_Ripperger_051418 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Mark_Ripperger_051418.csv")

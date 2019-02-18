@@ -1,0 +1,1 @@
+Chris_Segal_051118 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Chris_Segal_051118.csv")

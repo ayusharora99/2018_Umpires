@@ -1,0 +1,1 @@
+Eric_Cooper_052718 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Eric_Cooper_052718.csv")

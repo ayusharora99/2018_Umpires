@@ -1,0 +1,1 @@
+Quinn_Wolcott_052818 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Quinn_Wolcott_052818.csv", header=TRUE)

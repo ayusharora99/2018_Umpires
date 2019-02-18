@@ -1,0 +1,1 @@
+Gerry_Davis_050818 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Gerry_Davis_050818.csv")

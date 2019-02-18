@@ -1,0 +1,1 @@
+Vic_Carapazza_050618 <- read.csv("C:/Users/Owner/Desktop/2018 Giants Umpires/Vic_Carapazza_050618.csv")
