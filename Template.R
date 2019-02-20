@@ -15,6 +15,10 @@ library(e1071)
 library(caret)
 library(rpart)
 
+# https://pitchrx.cpsievert.me/ 
+library(pitchRx)
+
+
 # File --> Import Dataset --> From text (base) (YES TO HEADER) & import csv file downloaded from https://baseballsavant.mlb.com/statcast_search
 Umpire_Name <- read.csv("~/Desktop/Analyzing Baseball Data with R/2018 Giants Umpires/Umpire_Name_8:27.18.csv", header=TRUE)
 Angels <- read.csv("~/Desktop/Analyzing Baseball Data with R/2018 Giants Umpires/Angels.csv")
